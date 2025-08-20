@@ -8,7 +8,7 @@ Uses **Google Fonts (Playfair Display & Lato)** for an elegant retail feel, with
 ---
 
 ## 📸 Preview  
-![Tea Cozy Preview](https://placehold.co/1200x650?text=Tea+Cozy+Website+Preview)  
+![Tea Cozy Preview](https://github.com/SunilKumarPeela/WebImages/blob/main/TeaCozy.png)  
 
 ---
 
