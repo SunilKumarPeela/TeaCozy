@@ -8,7 +8,7 @@ Uses **Google Fonts (Playfair Display & Lato)** for an elegant retail feel, with
 ---
 
 ## 📸 Preview  
-![Tea Cozy Preview](https://github.com/SunilKumarPeela/WebImages/blob/main/TeaCozy.png)  
+![Tea Cozy Preview](https://github.com/SunilKumarPeela/WebImages/blob/main/Teacozy1.png)  
 
 ---
 
