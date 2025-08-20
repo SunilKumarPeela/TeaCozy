@@ -15,7 +15,9 @@ Uses **Google Fonts (Playfair Display & Lato)** for an elegant retail feel, with
 ## 🗂️ Project Structure  
 
 TeaCozy/
+
 ├─ index.html
+
 └─ style.css
 ---
 
