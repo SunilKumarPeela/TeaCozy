@@ -22,8 +22,7 @@ TeaCozy/
 
 ---
 
-## ▶️ Live Demo  
-[![Open in CodeSandbox](https://img.shields.io/badge/Open%20in-CodeSandbox-black?style=for-the-badge&logo=codesandbox)](https://codesandbox.io/)  
+## ▶️ Live Demo [![Open in CodeSandbox](https://img.shields.io/badge/Open%20in-CodeSandbox-black?style=for-the-badge&logo=codesandbox)](https://codesandbox.io/p/sandbox/github/SunilKumarPeela/TeaCozy)
 
 ---
 
